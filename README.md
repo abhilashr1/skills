@@ -2,6 +2,8 @@
 
 My current active collection of reusable skills for coding agents. Each skill lives in its own directory with its instructions in `SKILL.md`.
 
+> **Authorship note:** This is a curated working collection, not a claim that I authored every skill. Some—including Ponytail, `i-have-adhd`, Grill, and others—were created by other authors or adapted from community work; credit and licensing remain with their respective creators.
+
 ## Skills
 
 | Skill | Summary |
